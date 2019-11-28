@@ -27,6 +27,8 @@
     end
     
     desc 
+    puts 'hello from Rake!'
+  end
   end
 
   task :environment do
